@@ -1,1 +1,5 @@
-
+# Created by Tianyi Zeng 2012 for Artificial Intelligence
+# Project: path search in maze for futuer Pacman Game
+# Established under the framework provided by the course
+# My algorithms in: search.py; searchAgents.py
+# Algorithms used and compared: BFS, DFS, UCS, A*
